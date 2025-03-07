@@ -71,9 +71,6 @@ If you’d like to contribute to this project, feel free to:
 - Push to your branch (`git push origin feature-branch`)
 - Open a Pull Request
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
 ## 🌟 Support
 If you find this project helpful, feel free to give it a ⭐ on GitHub!
 
